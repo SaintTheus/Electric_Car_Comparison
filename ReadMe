@@ -1,0 +1,14 @@
+Compare an electric car currently under development against its expected
+rival, the Tesla Model S. 
+
+
+What code accomplished below:
+-Used data to help compute the power required for the Tesla and for the
+development car as they both go around the track
+-Plotted the racetrack using coordinates given along with the maximum power of each vehicle on three points on the track(Matplotlib)
+-Created a concise and neat table which reports the maximum power required for each of the three given
+scenarios(Development car on a flat track and real track / Tesla on a real track)
+-create a bar chart that compares the development car's power requirements against the Teslas -Calculate how many kilograms must be reduced so that the maximum power required by the development car is 1%
+less than the Teslas maximum power requirement
+-With the new mass, I redid all of the prior graphs comparing the power of the Tesla with the new development car after reducing the mass
+-I finally plotted a graph to compare the old and new development car
